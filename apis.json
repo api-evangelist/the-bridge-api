@@ -1,0 +1,46 @@
+{
+    "name": "The Bridge API",
+    "description": "<p>Smart Financial Technology. Our technologies allow you to aggregate and process financial data in your applications. We make smart financial data. With our API, you benefit from standardized mapping on all data from more than 350 financial institutions in Europe. Aggregation of financial data. Bridge is the most reliable and secure financial aggregation solution in Europe. Easily retrieve current account, savings, credit, life insurance and PEA data in seconds from individual or pro accounts.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/the-bridge-api.png",
+    "tags": [
+        "api provider",
+        "banking",
+        "financial",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/the-bridge-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Bridge API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/the-bridge-api.png",
+            "humanURL": "https:\/\/bridgeapi.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-bridge-api-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-bridge-api-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Documentation",
+            "url": "https:\/\/docs.bridgeapi.io\/v2\/docs"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/bridgeapi.io"
+        }
+    ]
+}
